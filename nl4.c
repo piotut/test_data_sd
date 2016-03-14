@@ -29,5 +29,39 @@ int main()
 		}
 	}
 
+  if(f<12){
+		if(e<11){
+			if(d<9){
+				result = a + b;
+				result = c + a;
+				if(c<7){
+					if(b<6){
+						if(a<8){
+							result = a + b + c + d + e + f;
+							printf("%d", result);
+						}
+					}
+				}
+			}
+		}
+	}
+
+  if(a>4){
+		if(b>2){
+			if(c>6){
+				result = a + b;
+				result = c + a;
+				if(d>7){
+					if(e>8){
+						if(f>10){
+							result = a + b + c + d + e + f;
+							printf("%d", result);
+						}
+					}
+				}
+			}
+		}
+	}
+
   return 0;
 }
