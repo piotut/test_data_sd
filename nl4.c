@@ -20,20 +20,7 @@ int main()
 	}
 
   if(f<12){
-		if(e<11){
-			if(d<9){
-				result = a + b;
-				result = c + a;
-				if(c<7){
-					if(b<6){
-						if(a<8){
-							result = a + b + c + d + e + f;
-							printf("%d", result);
-						}
-					}
-				}
-			}
-		}
+	result = f
 	}
 
   if(a>4){
