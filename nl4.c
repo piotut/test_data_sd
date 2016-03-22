@@ -13,7 +13,7 @@ int main()
   int result;
 
   if(a>4){
-		if(b>2){
+		if(b>3){
 			if(c>6){
 				result = a + b;
 				result = c + a;
