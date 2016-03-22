@@ -12,17 +12,6 @@ int main()
 
   int result;
 
-  if(a>3){
-		if(b>4){
-			result = a + b;
-			result = c + a;
-		}
-	}
-
-  if(f<12){
-	result = f
-	}
-
   if(a>4){
 		if(b>2){
 			if(c>6){
