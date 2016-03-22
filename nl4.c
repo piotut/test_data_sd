@@ -14,18 +14,8 @@ int main()
 
   if(a>3){
 		if(b>4){
-			if(c>5){
-				result = a + b;
-				result = c + a;
-				if(d>6){
-					if(e>7){
-						if(f>8){
-							result = a + b + c + d + e + f;
-							printf("%d", result);
-						}
-					}
-				}
-			}
+			result = a + b;
+			result = c + a;
 		}
 	}
 
