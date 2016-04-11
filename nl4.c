@@ -5,10 +5,10 @@ int main()
 {
   int a = 5;
   int b = 6;
-  int c = 7;
-  int d = 8;
+  int c = 6;
+  int d = 7;
   int e = 9;
-  int f = 10;
+  int f = 15;
 
   int result;
 
